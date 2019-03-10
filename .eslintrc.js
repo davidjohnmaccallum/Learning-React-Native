@@ -5,10 +5,12 @@ module.exports = {
       'jest': true,
     },
     'rules': {
+      'padded-blocks': 'off',
       'no-use-before-define': 'off',
       'react/jsx-filename-extension': 'off',
       'react/prop-types': 'off',
-      'comma-dangle': 'off'
+      'comma-dangle': 'off',
+      'react/no-multi-comp': 'off'
     },
     'globals': {
       "fetch": false

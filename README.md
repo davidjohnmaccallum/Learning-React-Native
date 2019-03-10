@@ -34,3 +34,6 @@ npx eslint . --fix
 
 (Commit)[https://github.com/davidjohnmaccallum/basic-react-native-skills/commit/46bf6538e62ccb97a28254f848107a66e917b9cc]
 
+What a pain getting rid of all of these errors. Feels like I just wasted 15 minutes of my life.
+
+(Commit)[https://github.com/davidjohnmaccallum/basic-react-native-skills/commit/76f3daa5910d41443ecd449483a227b7745f2566]

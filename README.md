@@ -37,3 +37,9 @@ npx eslint . --fix
 What a pain getting rid of all of these errors. Feels like I just wasted 15 minutes of my life.
 
 (Commit)[https://github.com/davidjohnmaccallum/basic-react-native-skills/commit/76f3daa5910d41443ecd449483a227b7745f2566]
+
+## List View
+
+FlatList actually. From here: https://facebook.github.io/react-native/docs/flatlist
+
+(Commit)[https://github.com/davidjohnmaccallum/basic-react-native-skills/commit/9e779ce154169755f6d33e47c1170b20b175a7bc]
